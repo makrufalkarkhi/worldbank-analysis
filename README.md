@@ -4,14 +4,6 @@ This project explores global, regional, and Indonesia-level economic data from t
 with a focus on forecasting **Indonesia’s GDP per capita** using both **SARIMAX** (time series model) 
 and **XGBoost** (machine learning model).
 
-## Project Structure
-├── data/              # raw dataset (World Bank)
-├── notebooks/         # exploratory data analysis (EDA) & experiments
-├── scripts/           # training scripts (SARIMAX & XGBoost)
-├── results/           # final plots and outputs
-├── requirements.txt   # dependencies
-└── README.md
-
 The dataset used in this project comes from Kaggle:  
 👉 [Global Economic Indicators (2010–2025)](https://www.kaggle.com/datasets/tanishksharma9905/global-economic-indicators-20102025) by *Tanishk Sharma*.
 
